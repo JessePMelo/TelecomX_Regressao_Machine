@@ -1,1 +1,1 @@
-# TelecomX_Regressao_Mahine
+# TelecomX_Regressao_Machine
