@@ -9,6 +9,7 @@ Este projeto visa prever a evasão (cancelamentos) de clientes de uma operadora 
 ```
 TelecomX_Regressao_machine.ipynb   # Notebook principal com todo o fluxo
 README.md                          # Este arquivo de documentação
+Dados.csv                          # Base de dados
 ```
 
 ## Pré-requisitos e Instalação
