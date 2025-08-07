@@ -1,4 +1,4 @@
-# TelecomX Churn Prediction
+# TelecomX Predição de cancelamentos
 
 ## Descrição do Projeto
 
