@@ -84,6 +84,8 @@ dados_normalizados.csv             # Base de dados
 | Regressão Logística | 0.77     | 0.54              | 0.69           | 0.60             | 0.818   |
 | Random Forest       | 0.77     | 0.53              | 0.76           | 0.62             | 0.843   |
 
+<img src="images/grafico-curva-ROC.png" alt="Grafico curva ROC" width="50%"/>
+
 ## Insights e Recomendações
 
 1. **Tempo de Permanencia Curto** (Meses de Contrato) é o principal fator de cancelamento: clientes nos primeiros 6 meses cancelam mais.
